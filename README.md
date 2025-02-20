@@ -4,7 +4,7 @@ Matériel pédagogique pour le cours *Récupération, analyse et visualisation d
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-UniGe/main)
 
-## Academic Year 2023/2024
+## Année academique 2024/2025
 
 | Bloc.unité         | Thème           | Matériaux  |
 | ------------- |-------------| -----:|
